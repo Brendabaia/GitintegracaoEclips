@@ -1,5 +1,5 @@
 package com.jovemprogramador.exercicio2;
-
+//test
 public class StringUtils {
 	 public boolean isPalindromo(String texto) {
 		 String limpo = texto.replaceAll("\\s+", "").toLowerCase();
